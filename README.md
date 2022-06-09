@@ -16,14 +16,14 @@ CSE Student || Learner || Coding Enthusiast || Frontend Developer...☕
 
 #### Get all items
 
-```https://leetcode.com/problemset/all/
+```[https://leetcode.com/problemset/all/]
   
 ```
 
 |  Name | Dificulty     |   Solution                |
 | :-------- | :------- | :------------------------- |
-| 1.Two sum | `Easy` | ```[link](https://github.com/TridibD004/Leetcode_Soln_C-/blob/main/twosum.cpp)``` |
-|reverse ll|`medium`|```link```|
+| 1.Two sum | `Easy` | [https://github.com/TridibD004/Leetcode_Soln_C-/blob/main/twosum.cpp]|
+|reverse ll|`medium`|[https://github.com/TridibD004/Leetcode_CPP/blob/main/206.%20Reverse%20Linked%20List.cpp]|
 
 
 
