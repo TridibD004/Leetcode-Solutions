@@ -22,8 +22,8 @@ CSE Student || Learner || Coding Enthusiast || Frontend Developer...☕
 
 |  Name | Dificulty     |   Solution                |
 | :-------- | :------- | :------------------------- |
-| 1.Two sum | `Easy` | [https://github.com/TridibD004/Leetcode_Soln_C-/blob/main/twosum.cpp]|
-|reverse ll|`medium`|[https://github.com/TridibD004/Leetcode_CPP/blob/main/206.%20Reverse%20Linked%20List.cpp]|
+| 1. Two Sum | `Easy` | [https://github.com/TridibD004/Leetcode_Soln_C-/blob/main/twosum.cpp]|
+|206. Reverse Linked List|`Easy`|[https://github.com/TridibD004/Leetcode_CPP/blob/main/206.%20Reverse%20Linked%20List.cpp]|
 
 
 
