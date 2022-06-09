@@ -22,7 +22,7 @@ CSE Student || Learner || Coding Enthusiast || Frontend Developer...☕
 
 |  Name | Dificulty     |   Solution                |
 | :-------- | :------- | :------------------------- |
-| 1.Two sum | `Easy` | ```link``` |
+| 1.Two sum | `Easy` | ```[link](https://github.com/TridibD004/Leetcode_Soln_C-/blob/main/twosum.cpp)``` |
 |reverse ll|`medium`|```link```|
 
 
