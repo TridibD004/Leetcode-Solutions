@@ -29,7 +29,7 @@ CSE Student || Learner || Coding Enthusiast || Frontend Developer...☕
 
 
 ## 🛠 Skills
-Data Structures, Algoriths, C++...
+`Data Structures`, `Algoriths`, `C++`...
 
 
 ## Badges
