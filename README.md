@@ -22,7 +22,7 @@ CSE Student || Learner || Coding Enthusiast || Frontend Developer...☕
 
 |  Name | Dificulty     |   Solution                |
 | :-------- | :------- | :------------------------- |
-| 1. Two Sum | `Easy` | [https://github.com/TridibD004/Leetcode_Soln_C-/blob/main/twosum.cpp]|
+| 1. Two Sum | `Easy` | [https://github.com/TridibD004/Leetcode_CPP/blob/main/Two_Sum.cpp]|
 |5. Longest Palindromic Substring|`Medium`|[https://github.com/TridibD004/Leetcode_CPP/blob/main/Longest_Palindromic_Substring.cpp]|
 |206. Reverse Linked List|`Easy`|[https://github.com/TridibD004/Leetcode_CPP/blob/main/206.%20Reverse%20Linked%20List.cpp]|
 
