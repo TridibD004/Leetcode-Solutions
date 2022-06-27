@@ -28,6 +28,7 @@ We are Going to Solve Leetcode Problems and Upload Solutions
 |11. |Container With Most Water|`Medium`|
 |13. |Roman to Integer|`Easy`|
 |21. |Merge Two Sorted Lists|`Easy`|
+|136. |Single Number|`Easy`|
 |206. |Reverse Linked List|`Easy`|
 
 
