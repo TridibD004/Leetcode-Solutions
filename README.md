@@ -27,6 +27,7 @@ We are Going to Solve Leetcode Problems and Upload Solutions
 |8. |String to Integer (atoi)|`Medium`|
 |11. |Container With Most Water|`Medium`|
 |13. |Roman to Integer|`Easy`|
+|15. |15. 3Sum|`Medium`|
 |21. |Merge Two Sorted Lists|`Easy`|
 |136. |Single Number|`Easy`|
 |206. |Reverse Linked List|`Easy`|
