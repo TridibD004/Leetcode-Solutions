@@ -29,6 +29,11 @@ We are Going to Solve Leetcode Problems and Upload Solutions
 |13. |Roman to Integer|`Easy`|
 |15. |15. 3Sum|`Medium`|
 |21. |Merge Two Sorted Lists|`Easy`|
+|26. |Remove Duplicates from Sorted Array|`Easy`|
+|27. |Remove Element|`Easy`|
+|28. |Implement strStr()|`Easy`|
+|29. |Divide Two Integers|`Easy`|
+|31.| Next Permutation|`Easy`|
 |136. |Single Number|`Easy`|
 |206. |Reverse Linked List|`Easy`|
 
