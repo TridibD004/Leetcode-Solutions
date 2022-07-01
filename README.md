@@ -36,6 +36,7 @@ We are Going to Solve Leetcode Problems and Upload Solutions
 |31.| Next Permutation|`Easy`|
 |136. |Single Number|`Easy`|
 |206. |Reverse Linked List|`Easy`|
+|1710. |Maximum Units on a Truck|`Easy`|
 
 
 
