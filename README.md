@@ -34,6 +34,18 @@ We are Going to Solve Leetcode Problems and Upload Solutions
 |28. |Implement strStr()|`Easy`|
 |29. |Divide Two Integers|`Easy`|
 |31.| Next Permutation|`Easy`|
+|32. |Longest Valid Parentheses|`Hard`|
+|33. |Search in Rotated Sorted Array|`Medium`|
+|34. |Find First and Last Position of Element in Sorted Array|`Medium`|
+|35. |Search Insert Position|`Easy`|
+|36. |Valid Sudoku|`Medium`|
+|41. |First Missing Positive|`Hard`|
+|43. |Multiply Strings|`Medium`|
+|45. |Jump Game II|`Medium`|
+|46. |Permutations|`Medium`|
+|47. |Permutations II|`Medium`|
+|48. |Rotate Image|`Medium`|
+|49. |Group Anagrams|`Medium`|
 |136. |Single Number|`Easy`|
 |206. |Reverse Linked List|`Easy`|
 |240. |Search a 2D Matrix II|`Medium`|
